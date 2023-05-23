@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zpuspokusumo
 - 👀 I’m interested in cladistics, linguistics, anything that makes my brain feel excited
-- 🌱 I’m currently learning Python, C, and JavaScript
+- 🌱 I’m currently learning Golang, and JavaScript
 - 💞️ I’m looking to collaborate on games or smalltime, exciting projects
 - 📫 How to reach me twitter: @Shah_Rtan, email: zpuspokusumo@gmail.com
 
